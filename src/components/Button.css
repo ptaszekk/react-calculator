@@ -1,0 +1,18 @@
+.button-wrapper {
+
+    height: 4em;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: lighter;
+    font-size: 1.4em;
+    background-color: #e0e0e8;
+    color: #888;
+    flex: 1;
+    outline: 1px solid #888899;
+}
+
+.operator {
+    background-color: #fe9240;
+    color: #888888;
+}
